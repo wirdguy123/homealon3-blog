@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(50,50,175);
+    color:white;
+}
+
+.titles{
+    text-align: center;
+}
+.devider{
+    width:100%;
+    background-color: black;
+    height:10px;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+h3{
+    margin-bottom:20px;
+}
+.text{
+    margin:5px;
+    padding:0;
+    font-size:30px;
+    
+}
+.min-content-divider{
+    width:100%;
+    background-color: black;
+    height:2px;
+}
+.game-div{
+    background-color: white;
+    margin:auto;
+    height:500px;
+    width:500px;
+}
+.center{
+    text-align: center;
+}
+.invis-div{
+    width:500px;
+    height:500px;
+}
